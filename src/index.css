@@ -1,0 +1,50 @@
+:root{
+  --darkNavy: #031926;
+  --deepTeal: #468189;
+  --lightTeal: #77aca2;
+  --pastelGreen: #9dbebb;
+  --cream: #f4e9cd;
+}
+
+/* Minimal reset + utility classes for when Tailwind utilities aren't available */
+*{box-sizing:border-box;margin:0;padding:0}
+html,body,#root{height:100%}
+body{
+  font-family: Inter, ui-sans-serif, system-ui, -apple-system, "Segoe UI", Roboto, "Helvetica Neue", Arial;
+  background: var(--darkNavy);
+  color: var(--cream);
+  -webkit-font-smoothing:antialiased;
+}
+
+/* Simple layout helpers (only if you are using CDN Tailwind you can ignore these) */
+.container { max-width:1100px; margin:0 auto; padding:1.5rem; }
+.row { display:flex; gap:1rem; flex-wrap:wrap; }
+.card {
+  background: var(--cream);
+  color: var(--darkNavy);
+  border-radius:12px;
+  padding:1rem;
+  box-shadow: 0 6px 18px rgba(0,0,0,0.12);
+}
+.table {
+  width:100%;
+  border-collapse:collapse;
+}
+.table th, .table td {
+  padding:0.75rem; text-align:left; border-bottom:1px solid rgba(0,0,0,0.06);
+}
+.btn {
+  background:var(--deepTeal);
+  color:var(--cream);
+  padding:0.5rem 0.9rem;
+  border-radius:8px;
+  border:none;
+  cursor:pointer;
+}
+.btn-secondary {
+  background:transparent;
+  color:var(--cream);
+  border:1px solid rgba(255,255,255,0.12);
+}
+.status-paid { color: #16a34a; font-weight:600; }
+.status-unpaid{ color: #dc2626; font-weight:600; }
