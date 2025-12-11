@@ -1,10 +1,10 @@
 # Student Fee Portal
 
 ## Live Project
-[View Live App on Netlify](https://app.netlify.com/projects/sekinatfinalproject/overview)
+[View Live App on Netlify]- https://sekinatfinalproject.netlify.app/ (https://app.netlify.com/projects/sekinatfinalproject/overview)
 
 ## Project Overview
-The Student Fee Portal is a React-based web application that allows students to track and manage their school fees. Users can view fee summaries, download receipts as PDFs, and see their transaction history. It includes:
+The Student Fee Portal is a React-based web application that allows students to track, view and manage their school fees. Users can view fee summaries, download receipts as PDFs, and see their transaction history. It includes:
 
 - Fee summary cards  
 - Payment form (mock)  
