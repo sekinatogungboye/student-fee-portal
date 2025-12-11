@@ -31,14 +31,6 @@ This project demonstrates your frontend skills in UI layout, state management, a
 - LocalStorage for persistence  
 - Chart.js (planned)  
 
-## 🖼️ Screenshots
-Screenshots are located in the /screenshots folder.
-Example views:
-Mobile View
-![Dashboard](./screenshots/dashboard.png)
-![Payment Form](./screenshots/payment.png)
-![Transaction History](./screenshots/history.png)
-
 
 ## ⚙️ How It Works
 - Users view fee information on the dashboard.
@@ -59,10 +51,13 @@ White	          #FFFFFF
 [View Palette]( https://coolors.co/031926-468189-77aca2-9dbebb-f4e9cd )
 
 ## Documentation
-[Project Documentation PDF]( ./docs/StudentFeePortal_Documentation.pdf )
+[View Documentation](./docs/ProjectDocumentation.pdf)
 
 ## Presentation
-[Project Presentation PDF]( ./docs/StudentFeePortal_Presentation.pdf )
+[View Presentation](./docs/ProjectSlides.pdf)
 
+## Screenshots  
+[View Screenshots](./docs/screenshots)
 ## Author
+
 Sekinat Ogungboye
