@@ -51,13 +51,13 @@ White	          #FFFFFF
 [View Palette]( https://coolors.co/031926-468189-77aca2-9dbebb-f4e9cd )
 
 ## Documentation
-[View Documentation](./docs/ProjectDocumentation.pdf)
+[View Documentation](https://www.canva.com/design/DAG7SDFw32Y/crrQHCCvKnPuUeEhRuj_nw/view?utm_content=DAG7SDFw32Y&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h9016e3498a))
 
 ## Presentation
 [View Presentation](https://www.canva.com/design/DAG7J75FcuY/I0OgKFR98ZM5aYfNUS7Xtw/view?utm_content=DAG7J75FcuY&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=hda34056bb3)
 
 ## Screenshots  
-[View Screenshots](./docs/screenshots)
+[View Screenshots](https://www.canva.com/design/DAG7SeC_IQo/D3STwj3HlkhpWmQPBTv6cg/view?utm_content=DAG7SeC_IQo&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=hf557bc7420)
 ## Author
 
 Sekinat Ogungboye
