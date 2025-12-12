@@ -54,7 +54,7 @@ White	          #FFFFFF
 [View Documentation](./docs/ProjectDocumentation.pdf)
 
 ## Presentation
-[View Presentation](./docs/ProjectSlides.pdf)
+[View Presentation]([./docs/ProjectSlides.pdf](https://www.canva.com/design/DAG7J75FcuY/I0OgKFR98ZM5aYfNUS7Xtw/view?utm_content=DAG7J75FcuY&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=hda34056bb3))
 
 ## Screenshots  
 [View Screenshots](./docs/screenshots)
